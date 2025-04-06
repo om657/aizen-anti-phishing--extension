@@ -4,7 +4,8 @@
 
 A lightweight Chrome extension to detect and warn users about suspicious or blacklisted websites. Features a clean UI with animated glowing footer and real-time domain analysis.
 
-![Extension Screenshot](preview.jpg)
+![preview jpg](https://github.com/user-attachments/assets/0fa41d34-7b37-413d-9bae-1476a9a93cb8)
+
 
 ---
 
@@ -35,6 +36,9 @@ anti-phishing-guard-extension/
 
 
 ---
+Download it from here then extract it - [aizen.zip](https://github.com/user-attachments/files/19621478/aizen.zip)
+---
+
 
 ## 🧪 How to Test
 
@@ -68,6 +72,7 @@ anti-phishing-guard-extension/
 MIT License © [Om Hire](https://github.com/om657)
 
 ---
+
 
 ## 📬 Contact
 
